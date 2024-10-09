@@ -1,4 +1,4 @@
-# Drone
+# GUI Vulnerability Scanner
 GUI LINUX VULNERABILITY SCANNER
 Vulnerability scanner for Linux based OS , written in Python using GUI
 This is a tool in python made to enter Commands CLI into a user friendly user interface.
